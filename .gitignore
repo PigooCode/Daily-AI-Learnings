@@ -13,3 +13,7 @@ venv/
 # OS files
 .DS_Store
 Thumbs.db
+
+*.db
+*.bin
+chroma_db/
